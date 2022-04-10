@@ -30,3 +30,8 @@ Please use the Greenhouse link in this email to submit the web address of your G
 
 Attribution
 Feel free to use existing resources to complete this task. If you use external resources please note them in the README of your repository. Let me know if you have any questions.
+
+
+
+References used for solution: 
+https://www.youtube.com/watch?v=R9JvD7hzJBg
