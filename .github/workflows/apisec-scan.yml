@@ -47,7 +47,7 @@ permissions:
 
 jobs:
   Trigger APIsec scan:
-    permissions:
+    permissions: read
       security-events: write # for github/codeql-action/upload-sarif to upload SARIF results
     runs-on: ubuntu-latest
 
